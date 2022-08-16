@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "react": "^18.2.0",
+    "react-preloaders": "^3.0.3",
+    "sass": "^1.54.4",
+    "scss": "^0.2.4",
+    "wowjs": "^1.1.3"
+  }
+}
